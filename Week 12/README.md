@@ -11,3 +11,5 @@ For Task 2, a circle collider was added to every bullet, so now the enemy is dam
 
 For Task 3, we added a coroutine that shows the word "Ouch" Every time the enemy is damaged.
 
+Bullet, Enemy, GameManager(first version), PlayerAttack, PlayerMovement - Macy Wright
+GameManager1 (second version), PlayerAttack, PlayerMovement, Bullet, Enemy, - Ethan Wood
